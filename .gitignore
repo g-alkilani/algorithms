@@ -1,0 +1,7 @@
+#Idea files
+.idea
+
+#Build files
+target
+
+src/main/java/nogitalgorithms
